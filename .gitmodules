@@ -1,0 +1,6 @@
+[submodule "codes/mmrotate"]
+	path = codes/mmrotate
+	url = https://github.com/open-mmlab/mmrotate.git
+[submodule "codes/mmdetection"]
+	path = codes/mmdetection
+	url = https://github.com/open-mmlab/mmdetection.git
